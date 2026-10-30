@@ -1,0 +1,1 @@
+Study note: SQLite stores information in tables. Each table has rows and columns.
